@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "description": "mkmiecik14's personal Claude Code skills",
+  "owner": {
+    "name": "mkmiecik14"
+  },
+  "plugins": [
+    {
+      "name": "mattk-tools",
+      "source": "./plugins/mattk-tools",
+      "description": "Personal collection of Claude Code skills"
+    }
+  ]
+}
